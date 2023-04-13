@@ -14,6 +14,5 @@ hello git!This is my study file!
 hello git!This is my study file!
 hello git!This is my study file!master test!
 hello git!This is my study file!hot-fix test!
-
 666666
 >>>>>>> hot-fix
